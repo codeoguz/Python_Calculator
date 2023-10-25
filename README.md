@@ -7,6 +7,11 @@ Including features:
 - Clear
 - Decimal numbers
 - Inform about mistakes(E.g division by zero)
+  
+![pythonCalculator1](https://github.com/codeoguz/pythonCalculator/assets/89513831/06345c36-39f8-4f2e-80cb-dc1e8cfa8c65)
+
+![pythonCalculator2](https://github.com/codeoguz/pythonCalculator/assets/89513831/1aa9ac0e-d555-4649-a5e1-ce98a3a592a2)
+
 
 ## How it works
 
