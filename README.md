@@ -1,4 +1,4 @@
-# Python Calculator
+# Python GUI Calculator
 
 This is a simple GUI calculator built using Python and tkinter.
 
